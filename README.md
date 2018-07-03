@@ -5,6 +5,9 @@ A web-based demonstration of public / private key pair concepts.
 
 This is a very basic visual introduction to the concepts behind a public / private key pair, signing and their use in a blockchain context.
 
+https://anders.com/blockchain/public-private-keys/
+
+
 ## Setup
 Get the code:
 
